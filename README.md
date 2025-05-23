@@ -1,5 +1,5 @@
-# Satellite Object Detection Dataset v2 (SODv2)
-New version of the satellite object detection (SOD) dataset
+# Satellite/Space Object Detection Dataset v2 (SODv2)
+New version of the satellite/space object detection (SOD) dataset
 
 # Authors:
 Wenxuan Zhang and Peng Hu
